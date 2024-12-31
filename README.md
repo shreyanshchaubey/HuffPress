@@ -12,7 +12,7 @@ This project is a web-based tool that allows users to compress and decompress fi
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shreyanshchaubey/HuffPress
    ```
 2. Navigate to the project directory:           
    ```bash
